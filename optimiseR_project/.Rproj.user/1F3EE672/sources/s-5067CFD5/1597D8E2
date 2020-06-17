@@ -1,0 +1,25 @@
+{
+    "id": "1597D8E2",
+    "path": "~/git/optimseR/optimiseR_project/overla_sets.R",
+    "project_path": "overla_sets.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1592361131654.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "98,54",
+        "scrollLine": "0"
+    },
+    "folds": "16|44|23|0|\n27|59|40|0|\n62|63|94|0|\n",
+    "lastKnownWriteTime": 1592385549,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1592386047812,
+    "read_only": false,
+    "read_only_alternatives": []
+}
